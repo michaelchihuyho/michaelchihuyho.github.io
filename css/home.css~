@@ -2,6 +2,10 @@ body{
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-align: center;
 }
+a{
+  text-decoration:none;
+  color: red;
+}
 #intro{
   font-size: 4em;
   font-weight: 100;
@@ -14,12 +18,58 @@ body{
   font-size: 4.5em;
   font-weight: 600;
 }
+#resume{
+  font-size: 4.75em;
+  font-weight: 200;
+}
 #find{
   font-size: 3.5em;
   font-weight: 100;
-  word-spacing: 0.5em;
+}
+#find2 ul{
+  padding: 0;
+  list-style-type: none;
+}
+#find2 li{
+  float: left;
+  width: 25%;
+}
+.iconlink {
+  margin: 10%;
+  width: 80%;
+  height: 120px;
+  display:block;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+#github{
+  background-image:url('/assets/github.png');
+}
+#github:hover{
+  background-image:url('/assets/github_hover.png');
+}
+#linkedin{
+  background-image:url('/assets/linkedin.png');
+}
+#linkedin:hover{
+  background-image:url('/assets/linkedin_hover.png');
+}
+#coderwall{
+  background-image:url('/assets/coderwall.png');
+}
+#coderwall:hover{
+  background-image:url('/assets/coderwall_hover.png');
+}
+#stackoverflow{
+  background-image:url('/assets/stackoverflow.png');
+}
+#stackoverflow:hover{
+  background-image:url('/assets/stackoverflow_hover.png');
 }
 #blog{
+  font-size: 2.5em;
+  font-weight: 300;
+  clear:both;
 }
 .highlight{
   color: red;

@@ -8,23 +8,37 @@ title: Michael Ho
     my name is <span class="highlight">michael ho</span>
   </div>
   <div id="about">
-    i love creating <em>beautiful, functional, consumer-facing</em> 
+    i love creating <em>beautiful, functional, consumer-facing</em>
   </div>
   <div id="about2">
     web applications
   </div>
+  <div id="resume">
+    <em>here's my <a href="">r&eacute;sum&eacute;</a></em>
+  </div>
   <div id="find">
-    you can find me on...
+    you also can find me on...
   </div>
   <div id="find2">
     <ul>
-      <li>github</li>
-      <li>LinkedIn</li>
-      <li>coderwall</li>
-      <li>stack exchange</li>
+      <li>
+      <a href="https://github.com/michaelchihuyho" class="iconlink" id="github">
+      </a>
+      </li>
+      <li>
+      <a href="http://www.linkedin.com/in/michaelchihuyho" class="iconlink" id="linkedin">
+      </a>
+      <li>
+      <a href="http://coderwall.com/michaelho" class="iconlink" id="coderwall">
+      </a>
+      </li>
+      <li>
+      <a href="http://stackoverflow.com/users/2712151/michael" class="iconlink" id="stackoverflow">
+      </a>
+      </li>
     </ul>
   </div>
   <div id="blog">
-    i also write down my thoughts on my <span class="highlight">blog</span>
+    i also jot down thoughts on my <a href="">blog</a>
   </div>
 </div>
