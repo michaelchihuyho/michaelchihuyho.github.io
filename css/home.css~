@@ -11,7 +11,7 @@ a{
   font-weight: 100;
 }
 #about{
-  font-size: 1.5em;
+  font-size: 1.6em;
   font-weight: 500;
 }
 #about2{
@@ -23,7 +23,7 @@ a{
   font-weight: 200;
 }
 #find{
-  font-size: 3.5em;
+  font-size: 4.25em;
   font-weight: 100;
 }
 #find2 ul{
@@ -67,7 +67,7 @@ a{
   background-image:url('/assets/stackoverflow_hover.png');
 }
 #blog{
-  font-size: 2.5em;
+  font-size: 2.4em;
   font-weight: 300;
   clear:both;
 }
