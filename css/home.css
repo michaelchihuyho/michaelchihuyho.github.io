@@ -43,28 +43,16 @@ a{
   background-repeat: no-repeat;
 }
 #github{
-  background-image:url('/assets/github.png');
-}
-#github:hover{
-  background-image:url('/assets/github_hover.png');
+  background-image:url('/assets/github_red.png');
 }
 #linkedin{
-  background-image:url('/assets/linkedin.png');
-}
-#linkedin:hover{
-  background-image:url('/assets/linkedin_hover.png');
+  background-image:url('/assets/linkedin_red.png');
 }
 #coderwall{
-  background-image:url('/assets/coderwall.png');
-}
-#coderwall:hover{
-  background-image:url('/assets/coderwall_hover.png');
+  background-image:url('/assets/coderwall_red.png');
 }
 #stackoverflow{
-  background-image:url('/assets/stackoverflow.png');
-}
-#stackoverflow:hover{
-  background-image:url('/assets/stackoverflow_hover.png');
+  background-image:url('/assets/stackoverflow_red.png');
 }
 #blog{
   font-size: 2.4em;
